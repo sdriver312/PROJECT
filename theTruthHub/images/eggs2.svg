@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#F5B97A" stroke="#FF9D52" stroke-width="14.1935" stroke-miterlimit="10" d="M266.939,168.811
+			c0,64.922-52.63,117.552-117.552,117.552c-64.922,0-117.552-52.63-117.552-117.552c0-64.923,52.63-117.552,117.552-117.552
+			C220.988,51.259,266.939,112.567,266.939,168.811z"/>
+		<g>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="108.0142" y1="254.8789" x2="137.0494" y2="225.8437">
+				<stop  offset="0" style="stop-color:#F5B97A"/>
+				<stop  offset="1" style="stop-color:#E8AB7A"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_1_)" points="64.192,235.474 137.525,278.053 208.403,220.408 156.481,181.233 130.671,184.781 
+				109.188,187.785 			"/>
+		</g>
+		<g>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="100.3218" y1="167.1348" x2="128.2532" y2="139.2034">
+				<stop  offset="0" style="stop-color:#F5B97A"/>
+				<stop  offset="1" style="stop-color:#E8AB7A"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_2_)" points="62.19,152.492 127.123,193.297 180.758,140.09 181.051,128.312 182.479,119.56 
+				143.355,89.336 121.912,92.829 111.909,102.155 			"/>
+		</g>
+		<g>
+			<path fill="#F5E0C5" d="M187.902,116.524c-0.065,22.57-15.72,39.926-34.967,39.883c-19.248-0.043-34.799-17.469-34.734-40.04
+				c0.056-19.519,19.943-43.462,34.973-43.428C167.482,72.971,187.956,97.006,187.902,116.524z"/>
+			<g>
+				<path fill="#E0C7AA" d="M123.536,116.378c-0.284-18.749,16.861-44.543,33.182-43.317c-0.642-0.074-1.279-0.051-1.897-0.118
+					c-15.799-1.688-38.607,23.9-38.663,43.42c-0.066,22.572,17.27,41.147,38.423,40.048c0.648-0.034,1.296-0.015,1.939-0.045
+					C137.25,156.655,123.983,145.825,123.536,116.378z"/>
+			</g>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M117.297,181.444c-31.553,18.844-18.421,57.687,1.912,69.248c9.436,5.366,32.779,9.623,46.648,1.994
+				c7.973-4.386,22.328-16.745,27.91-20.333c9.51-6.115,17.646-11.604,18.886-24.749c1.006-10.678-4.438-19.713-14.421-22.555
+				c-5.43-1.547-11.411-1.964-21.085-2.804C167.477,181.408,135.837,170.37,117.297,181.444z"/>
+			<circle fill="#FDB03B" cx="148.614" cy="214.513" r="21.43"/>
+			<g>
+				<path fill="#FFDABB" d="M149.224,200.468c8.131,0,14.92,5.729,16.557,13.372c-0.107-9.262-7.645-16.737-16.932-16.737
+					c-9.353,0-16.934,7.581-16.934,16.936c0,1.222,0.133,2.413,0.378,3.562c-0.001-0.065-0.005-0.131-0.005-0.197
+					C132.289,208.05,139.871,200.468,149.224,200.468z"/>
+			</g>
+		</g>
+	</g>
+	<circle fill="none" cx="149.304" cy="169.27" r="128.729"/>
+	<text transform="matrix(0.8579 -0.5138 0.5138 0.8579 71.2271 65.958)"><tspan x="0" y="0" fill="#FF9D52" font-family="'GillSans-UltraBold'" font-size="39.0002">E</tspan><tspan x="24.448" y="-0.661" fill="#FF9D52" font-family="'GillSans-UltraBold'" font-size="39.0002" rotate="12.032">G</tspan><tspan x="52.057" y="4.647" fill="#FF9D52" font-family="'GillSans-UltraBold'" font-size="39.0002" rotate="24.53">G</tspan><tspan x="80.368" y="17.601" fill="#FF9D52" font-family="'GillSans-UltraBold'" font-size="39.0002" rotate="37.11">S</tspan></text>
+</g>
+</svg>
